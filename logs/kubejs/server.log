@@ -1,0 +1,43 @@
+[14:01:44] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[14:01:44] [INIT] Loaded plugins:
+[14:01:44] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:01:44] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:01:44] [INIT] - zzzank.probejs.plugin.BuiltinProbeJSPlugin
+[14:01:44] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[14:01:44] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[14:01:44] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[14:01:44] [INIT] - dev.latvian.mods.kubejs.immersiveengineering.ImmersiveEngineeringKubeJSPlugin
+[14:01:44] [INIT] KubeJS TFC configuration:
+[14:01:44] [INIT] - Debug mode enabled: false
+[14:01:44] [INIT] - Self tests console insertion enabled: true
+[14:01:44] [INIT] - Self tests warnings deduplicated: true
+[14:01:44] [INFO] Loaded script server_scripts:barrel.js in 0.003 s
+[14:01:44] [INFO] Loaded script server_scripts:remove.js in 0.002 s
+[14:01:44] [INFO] Loaded script server_scripts:scripts.js in 0.002 s
+[14:01:44] [INFO] Loaded 3/3 KubeJS server scripts in 0.016 s with 0 errors and 0 warnings
+[14:01:44] [INFO] Scripts loaded
+[14:01:44] [INFO] Initializing recipe event...
+[14:01:45] [INFO] Processing recipes...
+[14:01:45] [WARN] Failed to parse recipe 'knightsofterrafirma:heating/armor/decorations/crowns/crowns/platinum_crown_decoration[tfc:heating]'! Falling back to vanilla: {"fluid":"dfc:metal/platinum","amount":200} is not a valid fluid!
+[14:01:45] [WARN] Failed to parse recipe 'tfc_items:anvil/lead_gear[tfc:anvil]'! Falling back to vanilla: Ingredient 'input' can't be empty!
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:fermenter/melon_slice[immersiveengineering:fermenter]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [input?:input_item, fluid:output_fluid, result:output_item, energy?:int]
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:squeezer/hemp_seeds[immersiveengineering:squeezer]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [result:output_item, fluid:output_fluid, energy?:int, input?:input_item]
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:squeezer/beetroot_seeds[immersiveengineering:squeezer]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [input?:input_item, result:output_item, fluid:output_fluid, energy?:int]
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:fermenter/sugar_cane[immersiveengineering:fermenter]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [fluid:output_fluid, result:output_item, energy?:int, input?:input_item]
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:fermenter/apple[immersiveengineering:fermenter]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [fluid:output_fluid, result:output_item, input?:input_item, energy?:int]
+[14:01:45] [WARN] Failed to parse recipe 'immersivepetroleum:squeezer/graphite_dust[immersiveengineering:squeezer]'! Falling back to vanilla: Recipe component key 'fluid' not found! Valid keys: [fluid:output_fluid, input?:input_item, result:output_item, energy?:int]
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:fermenter/glow_berries[immersiveengineering:fermenter]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [fluid:output_fluid, result:output_item, energy?:int, input?:input_item]
+[14:01:45] [WARN] Failed to parse recipe 'knightsofterrafirma:heating/armor/decorations/crowns/laurel/platinum_laurel_wreath_decoration[tfc:heating]'! Falling back to vanilla: {"fluid":"dfc:metal/platinum","amount":200} is not a valid fluid!
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:squeezer/pumpkin_seeds[immersiveengineering:squeezer]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [input?:input_item, result:output_item, fluid:output_fluid, energy?:int]
+[14:01:45] [WARN] Failed to parse recipe 'knightsofterrafirma:heating/armor/decorations/crowns/minicrowns/platinum_minicrown_decoration[tfc:heating]'! Falling back to vanilla: {"fluid":"dfc:metal/platinum","amount":200} is not a valid fluid!
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:fermenter/beetroot[immersiveengineering:fermenter]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [fluid:output_fluid, result:output_item, input?:input_item, energy?:int]
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:squeezer/melon_seeds[immersiveengineering:squeezer]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [result:output_item, input?:input_item, fluid:output_fluid, energy?:int]
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:squeezer/wheat_seeds[immersiveengineering:squeezer]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [result:output_item, input?:input_item, fluid:output_fluid, energy?:int]
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:squeezer/graphite_dust[immersiveengineering:squeezer]'! Falling back to vanilla: Recipe component key 'fluid' not found! Valid keys: [fluid:output_fluid, input?:input_item, result:output_item, energy?:int]
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:fermenter/potato[immersiveengineering:fermenter]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [fluid:output_fluid, input?:input_item, result:output_item, energy?:int]
+[14:01:45] [WARN] Failed to parse recipe 'immersiveengineering:fermenter/sweet_berries[immersiveengineering:fermenter]'! Falling back to vanilla: Recipe component key 'result' not found! Valid keys: [fluid:output_fluid, input?:input_item, result:output_item, energy?:int]
+[14:01:45] [INFO] Found 21377 recipes in 279.5 ms
+[14:01:46] [INFO] Posted recipe events in 282.6 ms
+[14:01:46] [WARN] Error parsing recipe dfc:crafting/slab_mold[tfc:damage_inputs_shaped_crafting]: {"type":"tfc:damage_inputs_shaped_crafting","recipe":{"type":"minecraft:crafting_shaped","pattern":["XYX","XXX"],"key":{"X":{"tag":"tfc:lumber"}},"Y":{"tag":"tfc:hammers"},"result":{"item":"dfc:wood/mold/slab"}}}: Pattern references symbol 'Y' but it's not defined in the key
+[14:01:46] [INFO] Added 32 recipes, removed 1108 recipes, modified 0 recipes, with 1 failed recipes in 50.25 ms
+[14:01:46] [INFO] Server resource reload complete!

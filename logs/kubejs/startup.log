@@ -1,0 +1,16 @@
+[14:00:22] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[14:00:22] [INIT] Loaded plugins:
+[14:00:22] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:00:22] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:00:22] [INIT] - zzzank.probejs.plugin.BuiltinProbeJSPlugin
+[14:00:22] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[14:00:22] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[14:00:22] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[14:00:22] [INIT] - dev.latvian.mods.kubejs.immersiveengineering.ImmersiveEngineeringKubeJSPlugin
+[14:00:24] [INIT] KubeJS TFC configuration:
+[14:00:24] [INIT] - Debug mode enabled: false
+[14:00:24] [INIT] - Self tests console insertion enabled: true
+[14:00:24] [INIT] - Self tests warnings deduplicated: true
+[14:00:24] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[14:00:24] [INFO] Loaded script startup_scripts:example.js in 0.144 s
+[14:00:24] [INFO] Loaded 1/1 KubeJS startup scripts in 1.269 s with 0 errors and 0 warnings
